@@ -19,5 +19,5 @@ This project aims to demonstrate various simple encryption techniques. It serves
 To use this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Encryptions.git
+git clone https://github.com/ceasor-elvis/Encryptions.git
 cd Encryptions
